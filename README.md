@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Will-Georges
+- I use this account to make personal or school projects.
