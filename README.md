@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Chrome extension that scans barcodes, checks for allergies and food preferences, and outputs the informatino.<br><br>I know HTML, CSS, JS and some basic Python and pygame. I also have done some CISCO networking. 
+I'm currently working on a Chrome extension that scans barcodes, checks for allergies and food preferences, and outputs the information.<br><br>I know HTML, CSS, JS and some basic Python and pygame. I also have done some CISCO networking. 
 
 
 # 💻 Tech Stack:
