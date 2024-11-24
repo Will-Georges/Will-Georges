@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I am currently a High School Student<br>👨🏻‍💻 I know a few coding languages.<br>🛜 I have done some CISCO Networking<br>💻 I am just working on some small projects at the moment
+📚 Repositories containing high school coding projects.<br>🛜 I have done some CISCO Networking as well.
 
 
 # 💻 Tech Stack:
